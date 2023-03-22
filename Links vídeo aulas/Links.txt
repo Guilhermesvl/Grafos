@@ -1,0 +1,68 @@
+
+1. Introdução à Teoria de Grafos: o que é um grafo?
+https://www.loom.com/share/4a08c971443945c0a3b64e4068f5888a
+
+2. Introdução à Teoria de Grafos: aplicações
+https://www.loom.com/share/18f95f4c2b3d4b209cd0b3fa16ee403c
+
+3. Introdução à Teoria de Grafos: grafos especiais e Teorema do Aperto de Mãos
+https://www.loom.com/share/19808e38c3064e98af4bdcfdd2d9da10
+
+4. Notação assintótica - Material baseado no Khan Academy
+https://www.loom.com/share/f8f2429cc7d342508aedbc7244292bba
+
+5. Percursos em Grafos
+https://www.loom.com/share/f3447af0853c41458ec49f02c6d9f46d
+
+6. DFS: Ordenação Topológica
+https://www.loom.com/share/ed44865b569e4475b4b9ad9feeb3b2ca
+
+7. Árvores e Cortes: demonstrações 
+https://www.loom.com/share/2521adb335234b3c8cd3db6872244b79
+
+8. AGM: Algoritmo de Kruskall
+https://www.loom.com/share/e65da2ac82c84ed788aca55acce766d3
+
+9. AGM: Algoritmo de Prim e Algoritmo de Borukva
+https://www.loom.com/share/6db85ffaadfb4ffda78fd21ed2c8c320
+
+10. Grafos Eulerianos: Introdução
+https://www.loom.com/share/19411830cbe647a8b02642ab9820fe71
+
+11. Grafos Eulerianos: Aspectos teóricos
+https://www.loom.com/share/ce315bea97a644ada039ee8caa517882
+
+12. Grafos Eulerianos: Algoritmos
+https://www.loom.com/share/a1f2108dcb9445d1bf1ce41d6d92eb96
+
+13. Grafos Hamiltonianos: Teoria e Aplicações
+https://www.loom.com/share/770654970abb4e3b89e593658fd4c2f3
+
+14. Grafos Hammiltonianos - TSP
+https://www.loom.com/share/9f5566fd654641aa83f006406201efb6
+
+15. TSP (Extra) - Algoritmos
+https://www.loom.com/share/0a632a3508824345aed0f9112512503e
+
+16. Caminho Mínimo 1 - Algoritmo de Bellman-Ford
+https://www.loom.com/share/7c991057c70a4b698fc8717c95977b84
+
+17. Caminho Mínimo 2 - Algoritmo de Dijkstra
+https://www.loom.com/share/abdad4403eb34189a3b39f9892af68f6
+
+18. Caminho Mínimo 3 - Grafos direcionados e acíclicos
+https://www.loom.com/share/62c664349e2c4c10953b0f2b1add9665
+
+19. Caminho Mínimo 4 - Considerações finais
+https://www.loom.com/share/4fbe7ae338554e3bbae71e1e00994964
+
+20. Caminho Mínimo 5 - Algoritmo de Floyd-Warshall
+https://www.loom.com/share/4364350dce7546f7a4cfc4089de67472
+
+21. Fluxo Máximo - Conceitos básicos e Algoritmo de Ford-Fulkerson
+https://www.loom.com/share/8b470006c4084a10a441fe519bbc1fdc
+
+22. Fluxo Máximo - Outras aplicações
+https://www.loom.com/share/cb0cc2cb32c0408db3e314fafa5a57e3
+
+

@@ -1,0 +1,119 @@
+Close Reader View
+
+  * Type controls
+  *
+    Sans-serif
+
+    Serif
+
+    5
+
+    3
+
+    4
+
+    Light
+
+    Dark
+
+    Sepia
+
+    Auto
+
+  * Listen (N)
+  *
+
+    Voice: Default DefaultMicrosoft Daniel - Portuguese
+    (Brazil)Microsoft Maria - Portuguese (Brazil)Microsoft Maria Desktop
+    - Portuguese(Brazil)
+
+Save To Pocket
+run.codes <https://run.codes/exercises/view/28298>
+
+
+  run.codes
+
+2–3 minutes
+------------------------------------------------------------------------
+
+
+    Festas de São Petersburgo
+    <https://www.urionlinejudge.com.br/judge/pt/problems/view/1209>
+
+/São Petersburgo tornou-se após o fim da cortina de ferro, no início dos
+anos 90, uma das principais cidades da cena alternativa em todo o mundo.
+Grupos de punks, diversas bandas de hardcore e outros representantes da
+cena alternativa mudaram-se para a cidade, atraídas pela grande
+quantidade de jovens. Com o surgimento das comunidades virtuais, alguns
+anos mais tarde, notou-se o enorme potencial do uso destas comunidades
+para combinar encontros, festas, raves, etc./
+
+/Nestas festas de São Petersburgo é sempre muito importante que cada um
+dos participantes tenha pelo menos um certo número de amigos na rede
+social. E, ao mesmo tempo, desejamos convidar o maior número possível de
+pessoas de São Petersburgo desde que a restrição com relação ao número
+de amigos seja satisfeita. Tal restrição diz que, para ser convidada a
+festa, a pessoa precisa ter pelo menos um número K de amigos na lista de
+convidados./
+
+/Sua tarefa neste problema é, dado o conjunto de pessoas da comunidade e
+a lista de suas relações, determinar quais devem ser chamadas para que a
+festa tenha a maior quantidade possível de participantes satisfazendo a
+restrição./
+
+*Entrada*
+/A entrada é composta por diversas instâncias e termina com final de
+arquivo (EOF). A primeira linha de cada instância contém três inteiros N
+(1 <= N <= 1000), M e K (0 <= K <= N) representando respectivamente o
+número de pessoas na comunidade, o número de relações de amizade nessa
+comunidade e o número mínimo de amigos convidados uma pessoa precisa ter
+para ser convidada. Cada pessoa da comunidade é identificada por números
+de 1 a N. Cada uma das próximas M linhas contém um par de pessoas
+indicando que elas são amigas na rede social./
+
+*Saída*
+Para cada instância imprima uma única linha contendo a lista das pessoas
+a serem convidadas separadas por um espaço em branco. A lista deve estar
+ordenada em ordem crescente. Caso ninguém possa ser convidado, imprima o
+número 0.
+
+|Exemplo de entrada
+6 6 2
+1 3
+3 5
+2 3
+2 4
+4 6
+6 2
+6 6 3
+1 2
+2 3
+3 1
+4 5 
+5 6
+6 4
+
+Exemplo de saída
+2 4 6
+0
+
+|
+
+Save anything from across the web in Pocket, your personal library.
+
+As part of the Firefox family, Pocket provides a quiet, calm space
+that’s perfect for reading. It strips away all the distractions of the
+internet so you can really focus.
+
+*Sign up* - it’s free
+<https://getpocket.com/signup?utm_source=firefox_reader&utm_medium=variant_cta_only> *Discover more* <https://getpocket.com/explore?utm_source=firefox_reader&utm_medium=variant_cta_only>
+
+Discover the most thought-provoking stories out there, curated by Pocket.
+
+As part of the Firefox family, Pocket surfaces the best articles out
+there—new perspectives, intriguing deep-dives, timeless classics—and we
+do this with the same dedication to privacy you’ve come to expect from
+Firefox and Mozilla.
+
+*Discover more*
+<https://getpocket.com/explore?utm_source=firefox_reader&utm_medium=variant_cta_plus_recs>

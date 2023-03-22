@@ -1,0 +1,10 @@
+    	* Paulo Oswaldo Boaventura Netto and Samuel Jurkiewicz. Grafos: introdução e prática. São Paulo: Blucher, 2009.
+    
+
+	* Marco Goldbarg and Elizabeth Goldbarg. Grafos: Conceitos, algoritmos e aplicações. Elsevier, 2012.
+
+
+    	* Kenneth H Rosen and Kamala Krithivasan. Discrete mathematics and its applications: with combinatorics and graph theory. Tata McGraw-Hill Education, 2012.
+
+
+    	* Thomas H Cormen, Charles E Leiserson, Ronald L Rivest, and Clifford Stein. Introduction to algorithms. MIT press, 2009.
