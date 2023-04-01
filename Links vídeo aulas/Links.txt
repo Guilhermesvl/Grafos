@@ -11,6 +11,13 @@ https://www.loom.com/share/19808e38c3064e98af4bdcfdd2d9da10
 4. Notação assintótica - Material baseado no Khan Academy
 https://www.loom.com/share/f8f2429cc7d342508aedbc7244292bba
 
+-> Extra <-
+
+Estruturas de Dados (Guardar esses algoritmos no github ---VAI PRECISAR---)
+	-> Árvore Heap [Python] (Douglas Maioli): https://youtu.be/E9NLRv3jSF4
+	-> Matriz de Adjacências [Python] (Douglas Maioli): https://youtu.be/IzG9l_7GaZM
+	-> Lista de Adjacências [Python] (Douglas Maioli): https://youtu.be/4-1fG04nQGI
+
 5. Percursos em Grafos
 https://www.loom.com/share/f3447af0853c41458ec49f02c6d9f46d
 
