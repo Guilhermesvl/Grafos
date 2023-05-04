@@ -10,17 +10,23 @@ typedef vector<ii> vii;
 // Em cada elemento do vector, o first representa o peso da aresta, e o second um outro pair, indicando a aresta
 vector<pair<int, ii>> LA_para_LAr(vii* LA, int n)
 {
-  // first: peso; second: aresta
-  vector<pair<int,ii>> LAr;
+   {
+    // first: peso; second: aresta
+    vector<pair<int,ii>> LAr;
+    
+    for(int i = 0; i < n; i++)
+      for(vii::iterator it = LA[i].begin(); it != LA[i].end(); ++it)
+      {
+        int j = (*it).first;
+        int peso = (*it).second;
 
-  for(int i = 0; i < n; i++) {
-    for(int j = 0; j < LA[i].size(); j++) {
-      LAr[LA[i][j].first].push_back([LA[j][i].second]);
-    }
+        if(i <= j)
+          LAr.push_back(make_pair(peso, make_pair(i, j)));
+      }
+
+    return LAr;
   }
 
-  return LAr;
-}
 
 int main()
 {
