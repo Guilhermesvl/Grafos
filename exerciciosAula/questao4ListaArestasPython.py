@@ -1,12 +1,13 @@
 def LA_para_LAr(LA, n):
     LAr = []
 
+    #Percorre a LA  e adiciona na LAr (sem nenhuma exceção)
     for i in range(n):
         for aresta in LA[i]:
             j = aresta[0]
             peso = aresta[1]
 
-            if i <= j:
+            if i <= j:         #Apenas para evitar repetição (grafo-não direcionado)
                 LAr.append((peso, (i, j)))
 
     return LAr
